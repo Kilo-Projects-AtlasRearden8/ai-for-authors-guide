@@ -23,6 +23,8 @@ Do not keep your only series bible inside an AI chat. Chats can be deleted, acco
 
 Start with your main character. Add entries as you write.
 
+> **Privacy reminder:** Never paste unpublished scenes or full chapters into an AI tool. Paste only the short series-bible entries you wrote yourself (see Chapter 02).
+
 **Character entry example:**
 > **Name:** Mara Bell
 > **Age:** 34

@@ -21,6 +21,8 @@ First drafts are supposed to be messy. Editing is where a book becomes readable.
 
 Never paste your whole manuscript (Chapter 02). Edit one chapter or one scene at a time.
 
+> **Privacy reminder:** Never paste your unpublished manuscript into a web AI chat. Work with one chapter at a time, or use a made-up sample scene (see Chapter 02).
+
 ## Step 2: Check for repeats
 
 **Try this prompt:**

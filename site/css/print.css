@@ -1,0 +1,79 @@
+/* Print-ready worksheet styles */
+* { box-sizing: border-box; }
+
+html { font-size: 12pt; }
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  color: #111;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
+article {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 18mm 16mm;
+}
+
+header {
+  border-bottom: 2px solid #4f46e5;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.5rem;
+}
+
+.small { font-size: 0.8rem; color: #444; }
+
+form { margin-top: 0.5rem; }
+
+label { display: block; font-weight: 600; margin-top: 0.75rem; }
+
+.fillline {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #444;
+  background: transparent;
+  font: inherit;
+  font-size: 1rem;
+  padding: 2px 0;
+  outline: none;
+}
+.fillline::placeholder { color: #888; }
+
+.fillarea {
+  border: 1px solid #bbb;
+  min-height: 28px;
+  margin-top: 4px;
+  padding: 4px 6px;
+  font: inherit;
+  font-size: 1rem;
+  outline: none;
+}
+
+.checkboxrow {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+.checkboxrow input { margin-top: 2px; }
+
+footer {
+  margin-top: 1.5rem;
+  border-top: 1px solid #888;
+  padding-top: 0.5rem;
+  font-size: 0.75rem;
+  color: #555;
+}
+
+@page { size: Letter; margin: 18mm 16mm; }
+@media print {
+  body { -webkit-print-color-adjust: exact; }
+  a { color: #000; text-decoration: none; }
+}

@@ -25,6 +25,8 @@ Before you ask AI, write down:
 - What happens if they fail (the stakes)
 - Genre and tone
 
+> **Privacy reminder:** Never paste your unpublished manuscript into an AI tool just to get a blurb. Use made-up details or your ingredients list instead (see Chapter 02).
+
 ## Step 2: Ask AI for options
 
 **Try this prompt:**

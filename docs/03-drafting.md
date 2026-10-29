@@ -6,6 +6,8 @@ The blank page is the hardest part. AI can help you start — but you remain the
 
 Never let AI write your book for you. Use AI to brainstorm, outline, and get unstuck. Your voice, your characters, your story.
 
+> **Privacy reminder:** Never paste your unpublished manuscript into a web AI chat. Work with made-up examples or small excerpts only (see Chapter 02).
+
 ## Step 1: Brainstorm a premise
 
 Start small. Ask AI for ideas, not finished text.
